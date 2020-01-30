@@ -1,0 +1,114 @@
+{
+  "id": "1577562",
+  "name": "layui-extend",
+  "font_family": "iconfont",
+  "css_prefix_text": "layui-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1175627",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2059362",
+      "name": "管理",
+      "font_class": "guanli1",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "3676914",
+      "name": "报 表 管 理",
+      "font_class": "baobiaoguanli_active",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5404740",
+      "name": "管理",
+      "font_class": "guanli-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6686131",
+      "name": "异常",
+      "font_class": "yichang",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "7006111",
+      "name": "解锁",
+      "font_class": "jiesuo",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7418973",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8118466",
+      "name": "下载",
+      "font_class": "cloud-download",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "9258232",
+      "name": "管理",
+      "font_class": "guanli-copy1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9438677",
+      "name": "加锁",
+      "font_class": "jiasuo",
+      "unicode": "e9f9",
+      "unicode_decimal": 59897
+    },
+    {
+      "icon_id": "9545304",
+      "name": "异常",
+      "font_class": "yichang3",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "9681168",
+      "name": "异常",
+      "font_class": "yichang1",
+      "unicode": "ec38",
+      "unicode_decimal": 60472
+    },
+    {
+      "icon_id": "9755701",
+      "name": "下载",
+      "font_class": "xiazai1",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "9875182",
+      "name": "异常",
+      "font_class": "yichang2",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "11040012",
+      "name": "异常",
+      "font_class": "yichang4",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}

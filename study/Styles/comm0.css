@@ -1,0 +1,64 @@
+/*这是PC端公共样式*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	cursor: pointer;
+}
+
+input {
+    outline: none;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+.PR {
+    position: relative;
+}
+
+.PA {
+    position: absolute;
+}
+
+.PF {
+    position: fixed;
+}
+
+.hide {
+    display: none;
+}
+
+.TAC {
+    text-align: center;
+}
+
+a,
+a:active,
+a:focus,
+a:hover,
+a:visited {
+	text-decoration: none;
+	cursor: pointer;
+	}
+
+textarea{resize: none;}
+
+ul, ol { list-style: none; }
+
+/* 图片自适应 */
+img {
+	border: 0;/*去掉图片默认的蓝色边框*/
+    width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    display: block;
+    -ms-interpolation-mode: bicubic;/*为了照顾ie图片缩放失真*/
+}
+
+/*这是移动端公共样式*/
+
+
+
